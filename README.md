@@ -2,7 +2,7 @@
 Small Python project that allows the user to extract the text from a PDF file and listen to it using the user's computer speech engine.
 
 # Objective of the project
-This project was of great use for diving into PDF reading and text extracting. My objective was to learn more about those areas using Python and becoming familiar with said technologies.
+The aim fo this project was to dive into PDF reading and text extracting. My objective was to learn more about those areas using Python and becoming familiar with said technologies.
 
 This small project can also solve a problem I sometimes have: I need to read a long text but don't have the time. Using this small project I can convert the text into speech and listen to it while I do other things.
 
