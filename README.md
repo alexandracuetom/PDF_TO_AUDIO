@@ -31,3 +31,7 @@ The development of this project has allowed me to discover how to extract text f
 
 I have also acquired more confidence when it comes to interpreting command-line exceptions and error messages since I was missing many packages I had to install so many errors were printed in the terminal.
 After a few I was able to read them on my own and act upon them.
+
+# Note
+This project was developed following a tutorial. However some changes were added due to the original code not working properly and some methods being deprecated.
+Here is the link to the tutorial followed: https://www.youtube.com/watch?v=Flm2YHEFd5A
